@@ -1,1 +1,1 @@
-!(<>(withdrawMoneyOP &&sentMoneyOP));
+!(<>(withdrawMoneyOP &&sentMoneyOP));   //LTL property
